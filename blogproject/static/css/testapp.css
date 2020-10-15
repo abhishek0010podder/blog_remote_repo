@@ -1,0 +1,54 @@
+.content{
+
+    width: 60%;
+    float: left;
+    padding: 0 0 20px 30px;
+    background: aqua;
+    height: 100%;
+
+}
+.sidebar{
+
+  width: 40%;
+  float: right;
+  padding: 10px;
+  background: greenyellow;
+  height: 100%;
+
+}
+h1{
+  text-align: center;
+  border-bottom: 1px solid #bbb;
+}
+h2{
+
+  color: orangered;
+  font-size: 30px;
+  font-style: italic;
+}
+body{
+  color: darkred;
+  background: aqua;
+}
+#date{
+
+  color: darkslategrey;
+  font-size: 14px;
+  font-style: italic;
+}
+
+#ch{
+
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+    border-bottom: 2px solid gold;
+
+
+}
+#pcount{
+  font-size: 40px;
+  color: darkblue;
+  font-weight: bold;
+
+}
